@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @StrikerSumit39
 - 👀 I’m interested in CPP programming and problem solving
-- 🌱 I’m currently learning javascript and J2EE
+- 🌱 I’m currently learning C# javascript and J2EE
 - 📫 Reach me through 4198sumit@gmail.com 
 
 <!---
